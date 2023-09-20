@@ -4,9 +4,9 @@
 >
 > 1. Questão feita em sala pelo professor: 2023-08-28 semaforo-finalizado;
 >
-> 2. Estudos_youtube: playlist no [youtube](https://www.youtube.com/playlist?list=PLKyj-ZnNych4Q1rYZnPtwOGlstbszfPPg);
+> 2. Estudos_youtube: playlist no [Youtube](destino1);
 >
-> 3. ExerciciosClasses: lista de questões do site [Python Brasil](https://wiki.python.org.br/ExerciciosClasses);
+> 3. ExerciciosClasses: lista de questões do site [Python Brasil](destino2);
 >
 > 4. Questões de Orientação a Objeto com tratamento de exceções.
 ---
@@ -15,3 +15,6 @@
 ---
 ### 💻 **Ferramentas utilizadas para a elaboração:**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+[destino1]: https://www.youtube.com/playlist?list=PLKyj-ZnNych4Q1rYZnPtwOGlstbszfPPg
+[destino2]: https://wiki.python.org.br/ExerciciosClasses
