@@ -3,8 +3,6 @@
 """
 import numpy as np
 
-import numpy as np
-
 class Encadeamento:
     def __init__(self, tamanho=10):
         self.__ocupados = 0
